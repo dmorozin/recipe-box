@@ -2,13 +2,28 @@ const initState = {
   recipes: [
     {
       id: 1,
-      name: "drek",
-      ingr: ["govno", "drek", "sranje"]
+      name: "Pancakes",
+      ingr: [
+        "1/2 cups all-purpose flour",
+        "3 1/2 teaspoons baking powder",
+        "1 teaspoon salt",
+        "1 tablespoon white sugar",
+        "1 1/4 cups milk",
+        "1 egg",
+        "3 tablespoons butter melted"
+      ]
     },
     {
       id: 2,
-      name: "dasdsa",
-      ingr: ["hgfhgfh", "izuiuziuz", "yxyxyy"]
+      name: "Homemade Pizza",
+      ingr: [
+        "1 1/2 cups (355 ml) warm water (105°F-115°F)",
+        "1 package (2 1/4 teaspoons) of active dry yeast",
+        "3 3/4 cups (490 g) bread flour",
+        "2 Tbsp olive oil ",
+        "2 teaspoons salt",
+        "1 teaspoon sugar"
+      ]
     }
   ]
 };
